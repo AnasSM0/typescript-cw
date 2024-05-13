@@ -13,4 +13,4 @@ console.log(`my name is ${name}`);
 console.log(`I am ${age} years old`);
 }
 
-myInfo("anas")
+myInfo("anas");
